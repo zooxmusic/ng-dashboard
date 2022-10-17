@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ng-dashboard
 =======
 # Admin panel and UI Components for Angular.
@@ -24,4 +23,3 @@ cd ng-dashboard
 npm install
 npm start
 ```
->>>>>>> 25582a8 (initial commit)
