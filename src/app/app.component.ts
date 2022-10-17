@@ -9,9 +9,9 @@ import {Login} from './models/login';
 
 export class AppComponent {
     constructor() {
-        this.loadScripts()
+        this.loadScripts();
     }
-    async getFileText(file:string){
+    async getFileText(file: string){
         const response = await fetch(file)
         return await response.text()
     }
